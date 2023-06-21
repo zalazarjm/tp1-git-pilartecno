@@ -18,8 +18,14 @@ function extractValues(data) {
 */
 
 function arrayToLengthCounters(array) {
-  // Tu código aquí
-}
+  let contador = {};
+    for (let i = 0; i < array.length; i++) {
+        let elemento = array[i];
+        contador[elemento] = elemento.length;
+      }
+    
+      return contador;
+    }
 
 /*  
   Ejercicio 3: 
@@ -37,7 +43,7 @@ function findKeysInCommon(objeto1, objeto2) {
 
 function main() {
   console.log(extractValues({a: 1, b: 2, c: 3}));
-  //console.log(arrayToLengthCounters(['gato', 'perro', 'elefante']));
+  console.log(arrayToLengthCounters(['gato', 'perro', 'elefante']));
   //console.log(findKeysInCommon({a: 1, b: 2, c: 3}, {b: 4, c: 5, d: 6}));
 }
 
