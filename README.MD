@@ -10,13 +10,13 @@ Sigue las siguientes instrucciones:
 
 2. Debes realizar las siguientes acciones con Git:
     - Inicializar un repositorio git dentro de la carpeta creada. ---OK
-    - Cambiar de rama a una nueva rama llamada "development".
+    - Cambiar de rama a una nueva rama llamada "development". ---OK
 
 3. Configurar Git para que ignore el archivo `.env`. ---OK
 
-4. Realizar un primer commit con el mensaje "First commit".
+4. Realizar un primer commit con el mensaje "First commit". ---OK
 
-5. Resolver los tres ejercicios propuestos dentro de `tp1.js`, realizando un commit por cada ejercicio resuelto. Asegúrate de que el mensaje del commit sea descriptivo.
+5. Resolver los tres ejercicios propuestos dentro de `tp1.js`, realizando un commit por cada ejercicio resuelto. Asegúrate de que el mensaje del commit sea descriptivo. ---OK
 
 6. Crear un repositorio en GitHub que se llame "tp1-git-pilartecno". 
 
