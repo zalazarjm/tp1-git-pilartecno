@@ -16,7 +16,7 @@ Sigue las siguientes instrucciones:
 
 4. Realizar un primer commit con el mensaje "First commit". ---OK
 
-5. Resolver los tres ejercicios propuestos dentro de `tp1.js`, realizando un commit por cada ejercicio resuelto. Asegúrate de que el mensaje del commit sea descriptivo.
+5. Resolver los tres ejercicios propuestos dentro de `tp1.js`, realizando un commit por cada ejercicio resuelto. Asegúrate de que el mensaje del commit sea descriptivo. ---OK
 
 6. Crear un repositorio en GitHub que se llame "tp1-git-pilartecno". 
 
